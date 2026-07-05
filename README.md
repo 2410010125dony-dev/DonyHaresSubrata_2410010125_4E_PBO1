@@ -236,5 +236,5 @@ static int bacaPilihanMenu() {
 
 ## Pembuat
 
-Nama: [Nama Anda]
-NPM: [NPM Anda]_0125
+Nama: Dony Hares Subrata
+NPM : 2410010125
